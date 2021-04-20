@@ -8,4 +8,9 @@ Le but de ce TP est de comprendre et utiliser la technologie LoRaWAN dans un sc�
 - Station de développement Pycom
 - Capteur DHT
 - Lecteur RFID
-## Code à fournir:
+## A fournir:
+- RFID.ino
+- LoRa_Gateway_Kit_doc.pdf
+- TP_ISEN_HEI.pdf
+
+Si la difficulté est jugée trop importante ou par manque de temps, fournir tprfid.ino (code entier de la Partie 1)
